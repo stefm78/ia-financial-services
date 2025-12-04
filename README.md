@@ -1,24 +1,17 @@
-## 🚀 Progression Projet IA Financial Services
+## 🚀 IA Financial Services - 78% COMPLET
 
-**Phase Actuelle** : Production Sprint 2 (9% complet)
+**Phase** : Production Sprint 8 | **Recettes** : **25/32 (78%)**
 
-### 📊 Stats
-| Phase | Statut | Recettes |
-|-------|--------|----------|
-| Recherche | ✅ | 20 cas FS |
-| **Production** | 🟡 | **3/32** |
-| Conception | ⏳ | Structure 8 chapitres |
+### 📊 Stats Chapitres
+| Chapitre | Thème | % Complet |
+|----------|-------|-----------|
+| 1 | Intro | 100% ✅ |
+| 4 | Compliance | 100% ✅ |
+| 5 | Trading | 100% ✅ |
+| **6** | **Client** | **100% ✅** |
+| 7 | Production | 80% 🟡 |
 
-### 📁 Structure Repo
-```
-livre/
-├── chapitre-1-introduction/     [x] 1/1
-├── chapitre-2-fraud/           [x] 1/5
-├── chapitre-3-risk/            [x] 1/5
-└── INDEX.md                    [x] 3/32
-```
+### 🎯 Prochain
+**Sprint 9** : Chapitre 7 complet + Chapitre 2 Fraud (5/5)
 
-### 🎯 Prochain Sprint
-**Sprint 3** : Chapitre 4 Compliance (5 recettes)
-
-**[Repo Complet](https://github.com/stefm78/ia-financial-services)**
+**[Repo 78%](https://github.com/stefm78/ia-financial-services)**
