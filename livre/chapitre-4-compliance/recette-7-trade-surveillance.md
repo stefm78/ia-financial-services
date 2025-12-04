@@ -1,30 +1,7 @@
 # Chapitre 4 : Trade Surveillance
 
-## Objectif
-Détecter abus de marché et comportements suspects en temps réel.
+Les marchés bruissent d'abus invisibles. L'IA écoute chaque murmure suspect.
 
-## Description Conceptuelle
+Corrélations anormales. Réseaux cachés. Comportements hors normes.
 
-### Algorithmes
-- Analyse comportements anormaux
-- Corrélation transactions
-- Analyse réseau relationnel
-
-### Modèle
-- Intégration pipeline compliance
-- Validation humaine
-
-### Impact
-- Réduction risques pénalités
-- Surveillance proactive Continuous
-
----
-
-## Exemples
-- Banque X: Market abuse detection
-- Société Y: Compliance proactive
-
----
-
-**Sources** : Compliance reports, McKinsey
-**Statut** : Recette #7/32 à venir
+**L'intégrité triomphe par vigilance numérique.**

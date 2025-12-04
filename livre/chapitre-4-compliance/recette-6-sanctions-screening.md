@@ -1,28 +1,9 @@
 # Chapitre 4 : Sanctions Screening
 
-## Objectif
-Automatiser la surveillance des sanctions et listes dynamiques avec IA.
+Les listes de sanctions dansent, mouvantes. L'IA les suit, infatigable.
 
-## Description Conceptuelle
+Fuzzy matching. Mises à jour continues. Noms, entités, connexions tissées dans l'ombre.
 
-### **Screening Dynamique**
-IA compare noms, entités via fuzzy matching, mises à jour fréquentes.
+Les banques européennes les domptent. Vigilance permanente.
 
-### **Modèle**
-1. Intégration compliance pipeline
-2. Validation humaine cruciale
-3. Détection d’erreurs probabiliste
-
-### **Valeur Ajoutée**
-Conformité améliorée, pénalités réduites, alertes proactives.
-
----
-
-## Exemples
-1. Banque Européenne : Listes dynamiques sanctions
-2. Multinationales : Surveillance continue
-
----
-
-**Sources** : McKinsey, Standards Compliance
-**Statut** : Recette #6/32 à venir
+**L'IA scrute. Le danger recule.**
