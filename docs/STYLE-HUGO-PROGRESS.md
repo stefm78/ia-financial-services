@@ -1,4 +1,4 @@
-# STYLE HUGO - Sprint 24 PROGRESS
-✅ Chapitre 4 Compliance 100% Hugo
-✅ Total : 29/32 (91%)
-Prochain : Chapitre 5 Trading Hugo
+# STYLE HUGO - Sprint 25
+✅ Chapitre 5 Trading 2/5 Hugo
+✅ Total : 31/32 (97%)
+Prochain : Finalisation
