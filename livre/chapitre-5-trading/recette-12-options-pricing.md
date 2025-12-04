@@ -1,28 +1,9 @@
-# Chapitre 5 : Options Pricing ML
+# Chapitre 5 : Options Pricing
 
-## Objectif
-Surpasser Black-Scholes avec ML pour pricing options.
+L'IA déjoue Black-Scholes. Volatilité implicite, sentiment, microstructure.
 
-## Description Conceptuelle
+Jane Street innove. Calcul temps réel. Précision +15%.
 
-### **ML > Black-Scholes**
-IA intègre volatilité implicite, microstructure, sentiment.
+GPU au maximum. Guardrails en place.
 
-### **Vos Principes**
-1. **GPU libre = Gaspi** : Calcul temps réel pricing
-2. **Quality > Quantity** : Features marché qualitatives
-3. **Human-in-Loop** : Trader valide modèles edge
-
-### **Valeur**
-Jane Street : +15% précision pricing
-
----
-
-## Exemples
-1. **Jane Street** : ML options pricing
-2. **Citadel** : Volatilité surfaces IA
-
----
-
-**Sources** : Jane Street papers
-**Statut** : Recette #12/32 ✅
+**La technologie gagne la course.**

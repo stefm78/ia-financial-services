@@ -1,25 +1,9 @@
-# Chapitre 5 : Execution Algos TCA
+# Chapitre 5 : Execution TCA
 
-## Objectif
-Optimiser algos exécution avec Transaction Cost Analysis IA.
+L'IA optimise chaque ordre, minimise slippage et impact.
 
-## Description Conceptuelle
+JPMorgan et Goldman Sachs en maître d’œuvre.
 
-### **TCA Intelligence**
-IA prédit impact marché, slippage, optimise venue routing.
+Adaptive learning en temps réel.
 
-### **Vos Principes**
-1. **AI≠Entreprise** : Contexte broker/order flow
-2. **Guardrails** : Risk limits temps réel
-3. **Prod Learning** : Adaptation live conditions marché
-
----
-
-## Exemples
-1. **JPMorgan** : Execution IA optimisée
-2. **Goldman Sachs** : TCA prédictif
-
----
-
-**Sources** : JPMorgan execution research
-**Statut** : Recette #13/32 ✅
+**La perfection n'est pas la cible. L'efficacité, oui.**
