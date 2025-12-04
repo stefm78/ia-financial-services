@@ -1,28 +1,9 @@
 # Chapitre 6 : Personalized Advice
 
-## Objectif
-Robo-advisor next-gen personnalisé temps réel.
+Le conseiller virtuel connaît son client mieux que lui-même.
 
-## Description Conceptuelle
+Flux bancaires. Comportements. Objectifs murmurés. L'IA compose le conseil parfait.
 
-### **Hyper-Personnalisation**
-IA adapte conseils selon profil risque, objectifs, flux bancaires.
+Wealthfront retient 30% de clients en plus. Pas par hasard. Par prédiction.
 
-### **Vos Principes**
-1. **Propriétaire Data** : Données client unique
-2. **Human-in-Loop** : Conseiller valide recommandations complexes
-3. **Qualité > Quantité** : Features comportementales qualitatives
-
-### **Valeur**
-Wealthfront : +30% retention clients
-
----
-
-## Exemples
-1. **Wealthfront** : Robo-advisor IA next-gen
-2. **Betterment** : Personalisation dynamique
-
----
-
-**Sources** : Wealthfront case
-**Statut** : Recette #14/32 ✅
+**L'intelligence anticipe le désir avant qu'il ne s'exprime.**
