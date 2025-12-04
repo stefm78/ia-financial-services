@@ -1,9 +1,5 @@
-phase_active: "pao-phase3"
-
-# PAO PROGRESS
-phase2_complete: true
-pages: 70
-recipes_imported: 32
-
-# PROCHAIN
-pdf_print_ready: pending
+phase_active: "livré"
+pa o_phase3_complete: true
+pdf_print_ready: true
+pages_final: 70
+status: "100% prêt impression"
