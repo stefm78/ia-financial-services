@@ -1,24 +1,13 @@
-# Chapitre 2 : Deepfake Fraud Detection
+# Chapitre 2 : Deepfake Fraud
 
-## Objectif
-Détecter fraudes vocales/vidéo deepfake temps réel.
+Les ombres numériques s'animent. Une voix qui n'est point voix. Un visage qui ment sans ciller. Le deepfake attaque.
 
-## Description Conceptuelle
+L'IA perce le voile. Spectrogrammes qui trahissent. Artefacts qui dansent dans les pixels. Patterns qui hurlent l'imposture.
 
-### **Synthèse Deepfake**
-IA analyse spectrogrammes vocaux, artefacts vidéo, patterns anomalies.
+HSBC a forgé son rempart. Dix pour cent de victoires supplémentaires. Un modèle spécialisé, pas un titan générique.
 
-### **Vos Principes**
-1. **Guardrails** : False negative critique (sécurité)
-2. **Prod Learning** : Adaptation nouveaux deepfakes
-3. **Small Specialized** : Modèle vocal 3B optimisé
+En production, là où la bête véritable rugit. Apprentissage continu. Évolution permanente.
 
----
+Garde-fous de titane. Faux négatifs interdits. L'humain garde la main finale.
 
-## Exemples
-1. **HSBC** : Vocal replay attack detection
-2. **Amex** : Video identity verification
-
----
-
-**Statut** : Recette #23/32 ✅
+**Contre les fantômes numériques, seule veille l'intelligence affûtée.**

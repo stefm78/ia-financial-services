@@ -1,15 +1,15 @@
 # Chapitre 2 : Fraud Temps Réel
 
-Votre client appelle. La voix tremble légèrement. L'IA écoute.
+La fraude frappe dans l'ombre. Invisible. Silencieuse. Mais l'IA veille, inlassable sentinelle des flux numériques.
 
-Spectrogramme vocal. Artefacts vidéo. Patterns anormaux. Ce n'est pas lui. C'est un deepfake.
+Votre client compose le numéro. La voix hésite, un quart de ton trop bas. L'IA dissèque le spectrogramme. Détecte l'artefact vidéo qui trahit le deepfake. Ce n'est pas lui. C'est un fantôme numérique.
 
-HSBC a gagné 10% de détection instantanée. Pas avec un méga-modèle. Avec un modèle vocal spécialisé 7B paramètres.
+HSBC l'a dompté. Dix pour cent de détection en plus. Pas avec un colosse aveugle. Avec un modèle ciselé, 7 milliards de paramètres taillés pour la voix humaine.
 
-En production réelle, pas en test. L'IA apprend 10x plus vite. Mais avec garde-fous.
+En production véritable. Pas dans l'étuve stérile des laboratoires. Là où la fraude mute, l'IA évolue dix fois plus vite. Mais toujours gardée par des remparts de fer.
 
-Prompt injection ? Sanitisation bancaire. False négatif ? Humain en boucle.
+Injection de prompt ? Sanitisation impitoyable. Faux négatif ? L'humain tranche. La machine alerte. La fraude recule.
 
-La fraude ne dort jamais. Votre IA non plus.
+Dans ce duel éternel, l'intelligence artificielle n'est point épée, mais bouclier. Affûté. Vigilant. Impitoyable.
 
-**Spécialisez. Déployez. Surveillez.**
+**La fraude attend. L'IA ne dort jamais.**
