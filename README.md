@@ -1,14 +1,7 @@
-## 🎉 **IA Financial Services** - **PAO READY** ✅
+## 🎉 PAO PHASE 2 TERMINÉE
 
-**LIVRE** : **32/32 recettes** | **8/8 chapitres** | **100% COMPLET**
+**Livre assemblé** : 70p Affinity Publisher
+✅ 32 recettes + images + styles
+✅ Table matières + sommaire
 
-### 📋 PAO Phase 1 ✅ TERMINÉE
-- [x] Affinity Publisher + polices
-- [x] Images 300dpi CMJN (32)
-- [x] Templates master pages
-- [x] CHECKLIST_PAO.md
-
-### 🚀 Prochain
-**Phase 2** : Assemblage → **Phase 3** : PDF print-ready
-
-**[PAO READY](https://github.com/stefm78/ia-financial-services/tree/main)**
+**Phase 3** : PDF print-ready imminent

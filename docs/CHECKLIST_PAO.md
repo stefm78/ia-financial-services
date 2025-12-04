@@ -1,19 +1,11 @@
-# 📄 CHECKLIST PAO - Phase 1 Préparation
+## PAO Phase 2 - ASSEMBLAGE COMPLET
 
-## ✅ Logiciel & Polices
-- [x] Affinity Publisher installé
-- [x] Polices : Playfair Display, Inter, Crimson Pro
+✅ **32 recettes importées** Affinity Publisher
+✅ **Styles appliqués** (Playfair titre, Inter corps)
+✅ **Images/schémas** 32 placés (300dpi CMJN)
+✅ **Table matières** auto-générée
+✅ **Numérotation** + sommaire
 
-## ✅ Images Optimisées (32)
-- [x] 300dpi CMJN (scripts optimize-images.py)
-- [x] Dossier images/ structuré par chapitre
+**Fichier .afpub prêt** (~70p)
 
-## ✅ Templates Master Pages
-- [x] Cover, Intro, Recette (2p), Chapitre
-- [x] Marges 15mm, fonds perdus 3mm
-
-## ✅ Structure Import
-- [x] Ordre chapitres validé (structure-livre.md)
-- [x] 32 recettes prêtes import
-
-**PHASE 1 TERMINÉE** → **Phase 2 Assemblage**
+**PHASE 2 → PHASE 3 Finalisation**
