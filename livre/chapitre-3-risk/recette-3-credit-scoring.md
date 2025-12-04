@@ -1,32 +1,13 @@
 # Chapitre 3 : Credit Scoring Dynamique
 
-## Objectif
-Credit scoring temps réel +25% précision vs modèles traditionnels.
+Le crédit n'est plus statique, figé dans le temps.
 
-## Description Conceptuelle
+IA observe, analyse, et modifie en temps réel.
 
-### **Dynamique vs Statique**
-Score **continu** intégrant flux bancaire, comportement, news externes.
+Les portefeuilles, les comportements, les informations externes deviennent des notes dans une partition vivante.
 
-### **Vos Principes Intégrés**
-1. **Propriétaire Data** : Données banque > commodité
-2. **Qualité > Quantité** : 100 features qualitatives > 10k bruitées
-3. **AI≠Entreprise** : Contexte client prioritaire (éviter suppositions)
+Upstart et Robeco orchestrent cette symphonie dynamique.
 
-### **Shift Électrique**
-Repenser **workflow crédit** : Instantané vs 48h
+Une révolution silencieuse, où chaque décision se joue sur un fil.
 
-### **Human-in-Loop**
-IA propose score + **confiance score**, humain valide edge cases.
-
----
-
-## Exemples d'Application
-1. **Upstart** : +25% précision scoring ML
-2. **Portfolio Optimization** : Rebalancement temps réel
-3. **Climate Risk** : ESG scoring dynamique
-
----
-
-**Sources** : Upstart Case Study, BCG AI FS 2025
-**Statut** : Recette #3/32 ✅
+**Le risque n'est plus un obstacle, c'est une danse.**

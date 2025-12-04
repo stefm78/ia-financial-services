@@ -1,8 +1,7 @@
-# STYLE HUGO + CONCEPTS - Sprint 19 PROGRESS
+# STYLE HUGO - Sprint 20 PROGRESS
 
-✅ **Sprint 19** : Nouveaux concepts intégrés (IA utilisateur + Data first)
-✅ **Chapitre 7** : 2 recettes Hugo + nouveaux concepts
-✅ Total Hugo : 5/32 (16%)
-✅ Concepts initiateur : 12/12 intégrés
+✅ **Sprint 20** : 6 recettes Hugo + concepts IA avancés
+✅ Total Hugo : 11/32 (34%)
+✅ Concepts dans 10 recettes prioritaires
 
-**Prochain** : Chapitre 2 Fraud Hugo + Risk Hugo
+**Prochain** : Chapitre 2\3 Hugo + Chapitre 5 Roue libre

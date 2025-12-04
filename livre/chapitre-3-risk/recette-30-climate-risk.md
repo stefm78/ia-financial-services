@@ -1,23 +1,11 @@
 # Chapitre 3 : Climate Risk Scoring
 
-## Objectif
-ESG/Climate risk scoring dynamique.
+Sous les cieux changeants, l'IA mesure l'imprévisible.
 
-## Description Conceptuelle
+Elle capte les murmures des vents, les cris des océans et les lois naissantes.
 
-### **Dynamic ESG**
-IA intègre news climatiques, régulations, expositions.
+BNP Paribas et UBS adoptent ces gardiens du climat, façonnant l'avenir.
 
-### **Vos Principes**
-1. **Quality > Quantity** : Données ESG fiables
-2. **Human Oversight** : Validation stratégique
+Un jeu délicat entre données et décisions, espoir et prudence.
 
----
-
-## Exemples
-1. **BNP Paribas** : Climate risk IA
-2. **UBS** : ESG dynamic scoring
-
----
-
-**Statut** : Recette #30/32 ✅
+**Face à l'inconnu, l'intelligence s'élève.**

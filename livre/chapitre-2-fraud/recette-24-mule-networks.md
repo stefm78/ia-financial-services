@@ -1,23 +1,13 @@
-# Chapitre 2 : Mule Account Networks
+# Chapitre 2 : Mule Networks
 
-## Objectif
-Détecter réseaux comptes mules interconnectés.
+Les réseaux complexes des comptes mules tissent leur toile sous la surface.
 
-## Description Conceptuelle
+L'IA, tel un maître espion, scrute chaque mouvement, chaque lien.
 
-### **Graph Analysis**
-IA mappe flux financiers → détection réseaux fraude.
+Elle cartographie les flux, détecte les schémas et dénonce les complicités invisibles.
 
-### **Vos Principes**
-1. **Propriétaire Data** : Graphique transactions unique
-2. **Human-in-Loop** : Validation réseaux complexes
+Mastercard a dompté ces réseaux, Visa aussi, avec des modèles affinés et la vigilance humaine.
 
----
+Mais rien n'échappe à la veille constante. L'humain final décide, sur les recommandations du système.
 
-## Exemples
-1. **Mastercard** : Mule network detection
-2. **Visa** : Graph-based fraud
-
----
-
-**Statut** : Recette #24/32 ✅
+**Dans le silence digital, la lumière de l'IA perce l'obscurité.**
