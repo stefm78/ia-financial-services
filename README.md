@@ -1,19 +1,14 @@
-## 🎉 IA Financial Services - **100% COMPLET** ✅
+## 🎉 **IA Financial Services** - **PAO READY** ✅
 
-**PHASE** : **MATURE** | **Recettes** : **32/32 (100%)** | **Chapitres** : **8/8**
+**LIVRE** : **32/32 recettes** | **8/8 chapitres** | **100% COMPLET**
 
-### 📊 Stats Finales
-| Chapitre | Thème | Recettes | Statut |
-|----------|-------|----------|--------|
-| **1-8** | **TOUS** | **32/32** | **✅** |
+### 📋 PAO Phase 1 ✅ TERMINÉE
+- [x] Affinity Publisher + polices
+- [x] Images 300dpi CMJN (32)
+- [x] Templates master pages
+- [x] CHECKLIST_PAO.md
 
-### 🎯 Livrables
-- [x] **Livre Complet** (32 recettes)
-- [x] **INDEX Final**
-- [x] **Sources** (20 cas FS + vos concepts)
-- [x] **Structure** (8 chapitres)
+### 🚀 Prochain
+**Phase 2** : Assemblage → **Phase 3** : PDF print-ready
 
-### 📄 Prochaines Étapes
-**Phase Mature** : PDF export, visuels, publication
-
-**[LIVRE 100%](https://github.com/stefm78/ia-financial-services/tree/main/livre)**
+**[PAO READY](https://github.com/stefm78/ia-financial-services/tree/main)**
