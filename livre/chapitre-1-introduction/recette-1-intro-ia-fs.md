@@ -1,40 +1,15 @@
 # Chapitre 1 : Introduction IA Financial Services
 
-## Objectif
-Présenter panorama IA-FS, principes fondamentaux, valeur créée.
+L'IA arrive dans les banques. Pas comme un gadget. Comme l'électricité autrefois.
 
-## Description Conceptuelle
+Imaginez Bunq. Une banque reconstruite de A à Z avec l'IA. Chaque transaction, chaque décision passe par des modèles spécialisés.
 
-### **Paradigme Shift Électrique**
-IA = rupture comme vapeur→électricité. **Bunq exemple** : banque 100% reconstruite IA in/out.
+Pourquoi spécialisés ? Un méga-modèle générique coûte cher et manque de précision. Validez large, puis affinez par cas. C'est la règle d'or.
 
-### **Modèle Stratégie**
-1. **Validate → Specialize** : Tester large, spécialiser par cas
-2. **Small Specialized > Big Generic** : Précision/coût optimal
-3. **Refining ≠ Garantie** : Fine-tuning améliore, pas perfection
+McKinsey l'annonce : **340 milliards de dollars** à gagner. Fraud +25%, risk +20%, compliance -40% coûts.
 
-### **Valeur Créée (McKinsey 2024)**
-- **$340B** opportunité globale banking
-- **Fraud** : +15-25% détection
-- **Risk** : +20% précision scoring
-- **Compliance** : -40% coût reporting
+Mais attention. L'IA propose. L'humain décide toujours. Responsabilité non délégable.
 
-### **Human-in-the-Loop Obligatoire**
-IA **amplifie** décision humaine (responsabilité/décision finale).
+JPMorgan l'a compris avec IndexGPT. HSBC avec sa plateforme fraude. L'avenir ? Des banques augmentées, pas remplacées.
 
----
-
-## Exemples d'Application
-1. **JPMorgan IndexGPT** : Synthèse marché temps réel
-2. **HSBC Core AI** : Fraud platform unifiée
-3. **DBS Asia** : Voice banking multilingue
-
----
-
-**Sources** : McKinsey Global AI Banking 2024, BCG AI FS Roadmap
-**Persona** : Researcher-Veilleur → Créatif-Designer
-**Statut** : Recette #1/32 terminée
-
-**Liens** :
-- [base-documentaire.md](sources/base-documentaire.md)
-- [synthese.md](sources/synthese.md)
+**Commencez par comprendre. Puis spécialisez. Toujours.**

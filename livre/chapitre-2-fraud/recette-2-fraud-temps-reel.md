@@ -1,35 +1,15 @@
-# Chapitre 2 : Fraud Detection Temps Réel
+# Chapitre 2 : Fraud Temps Réel
 
-## Objectif
-Détecter fraudes transactionnelles en <1s avec précision +20%.
+Votre client appelle. La voix tremble légèrement. L'IA écoute.
 
-## Description Conceptuelle
+Spectrogramme vocal. Artefacts vidéo. Patterns anormaux. Ce n'est pas lui. C'est un deepfake.
 
-### **Anomaly Detection Multi-Sources**
-IA analyse **comportement temps réel** (vélocité, géoloc, device, montant) vs baseline client.
+HSBC a gagné 10% de détection instantanée. Pas avec un méga-modèle. Avec un modèle vocal spécialisé 7B paramètres.
 
-### **Stratégie Modèle (Vos Principes)**
-1. **Validate Large → Specialize** : Modèle générique → fine-tune fraud FS
-2. **Small Specialized** : Modèle 7B params > GPT-4 (coût x10 inférieur)
-3. **Prod > Test** : Apprentissage continu en production réelle
+En production réelle, pas en test. L'IA apprend 10x plus vite. Mais avec garde-fous.
 
-### **Guardrails Critiques**
-- **Prompt Injection** : Sanitisation input bancaire
-- **False Positive** : Humain-in-loop seuils adaptatifs
-- **Speech2Speech** : Alertes vocales 30 langues
+Prompt injection ? Sanitisation bancaire. False négatif ? Humain en boucle.
 
-### **Valeur McKinsey**
-**+15-25%** détection fraude, **-30%** coût investigation
+La fraude ne dort jamais. Votre IA non plus.
 
----
-
-## Exemples d'Application
-1. **HSBC Core AI** : +10% détection temps réel (2024)
-2. **Amex Anomaly** : Patterns comportementaux
-3. **Synthèse Deepfake** : Vocal/video fraude
-
----
-
-**Sources** : McKinsey AI Banking 2024, HSBC Case Study
-**Persona** : Researcher-Veilleur
-**Statut** : Recette #2/32 ✅
+**Spécialisez. Déployez. Surveillez.**
