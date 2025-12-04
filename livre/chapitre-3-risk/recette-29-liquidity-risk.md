@@ -1,23 +1,11 @@
-# Chapitre 3 : Liquidity Risk Prediction
+# Chapitre 3 : Liquidity Risk Anticipation
 
-## Objectif
-Prédire gaps liquidité marché temps réel.
+Quand les marchés suffoquent, l'IA respire pour eux.
 
-## Description Conceptuelle
+Elle anticipe les gaps. Order flow. News violentes. Stress imminent.
 
-### **Liquidity Forecasting**
-IA prédit stress liquidité selon order flow, news.
+Goldman Sachs lit les signes avant-coureurs. Morgan Stanley forge les parades.
 
-### **Vos Principes**
-1. **Shift Électrique** : Repenser risk mgmt
-2. **Guardrails** : Position limits auto
+Shift électrique du risk management. Plus de tableaux figés. Des vagues vivantes.
 
----
-
-## Exemples
-1. **Goldman Sachs** : Liquidity IA
-2. **Morgan Stanley** : Market stress
-
----
-
-**Statut** : Recette #29/32 ✅
+**L'intelligence navigue là où les autres coulent.**

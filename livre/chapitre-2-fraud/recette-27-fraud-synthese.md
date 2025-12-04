@@ -1,26 +1,11 @@
-# Chapitre 2 : Fraud Final - Synthèse
+# Chapitre 2 : Fraud Synthèse - Le Combat Invisible
 
-## Objectif
-Intégrer tous patterns fraude dans pipeline unifié.
+Dans les abysses numériques, la fraude tisse sa toile. Comptes mules reliés par des fils invisibles. Deepfakes murmurant des mensonges parfaits. Wash trading gonflant des volumes illusoires.
 
-## Description Conceptuelle
+L'IA, gardienne impitoyable, dissèque chaque nœud. Chaque spectrogramme. Chaque cycle artificiel. Mastercard cartographie ces réseaux sombres. Visa les pourfend.
 
-### **Pipeline Unifié**
-Deepfake + Mule + Wash Trading → scoring fraude global.
+Modèles spécialisés, pas titans aveugles. Production réelle où la bête véritable rugit. Humain en sentinelle ultime.
 
-### **Vos Principes Complets**
-1. **Small Specialized** x3 modèles
-2. **Guardrails** multi-couches
-3. **Human Decide** validation haute risque
+La fraude n'est point vaincue. Elle mute. L'IA aussi. Duel éternel des ombres.
 
-### **Valeur HSBC**
-Pipeline Core AI : **+25% détection globale**
-
----
-
-## Architecture Finale
-Maker (détection) → Controller (validation) → Humain (décision)
-
----
-
-**Statut** : Recette #27/32 ✅ | **Chapitre 2 COMPLÉTÉ**
+**Dans ce ballet mortel, la vigilance forge la victoire.**

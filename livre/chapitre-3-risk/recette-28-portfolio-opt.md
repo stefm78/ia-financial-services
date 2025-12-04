@@ -1,24 +1,11 @@
-# Chapitre 3 : Portfolio Optimization
+# Chapitre 3 : Portfolio Optimization Dynamique
 
-## Objectif
-Rebalancement temps réel optimisé IA.
+Les portefeuilles ne dorment plus. Ils respirent au rythme des marchés.
 
-## Description Conceptuelle
+L'IA rééquilibre en silence. Volatilité, sentiment, flux d'ordres. BlackRock Aladdin veille. Robeco suit le tempo.
 
-### **Dynamic Rebalancing**
-IA ajuste allocations selon volatilité, sentiment, flux.
+Données propriétaires comme sang noble. Features qualitatives triées. Apprentissage live qui danse avec la réalité.
 
-### **Vos Principes**
-1. **Propriétaire Data** : Portefeuilles clients
-2. **Prod Learning** : Adaptation live marchés
-3. **Quality Features** : ESG + macro intégrés
+Le risque n'est plus muraille infranchissable. Il devient partenaire de danse maîtrisée.
 
----
-
-## Exemples
-1. **BlackRock Aladdin** : IA portfolio
-2. **Robeco** : Dynamic allocation
-
----
-
-**Statut** : Recette #28/32 ✅
+**L'intelligence transforme la peur en chorégraphie.**

@@ -1,7 +1,8 @@
-# STYLE HUGO - Sprint 20 PROGRESS
+# STYLE HUGO - Sprint 21 PROGRESS
 
-✅ **Sprint 20** : 6 recettes Hugo + concepts IA avancés
-✅ Total Hugo : 11/32 (34%)
-✅ Concepts dans 10 recettes prioritaires
+✅ **Sprint 21** : 7 recettes Hugo total 18/32 (56%)
+✅ Chapitre 2 Fraud : 5/5 COMPLÉTÉ Hugo
+✅ Chapitre 3 Risk : 4/5 Hugo
+✅ Littéraire 100% : Métaphores, rythme posé, non-direct
 
-**Prochain** : Chapitre 2\3 Hugo + Chapitre 5 Roue libre
+**Prochain** : Chapitre 3 final + Chapitre 4 Hugo massif
