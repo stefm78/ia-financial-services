@@ -1,24 +1,9 @@
-# Chapitre 7 : Prompt Injection Defense
+# Chapitre 7 : Prompt Injection
 
-## Objectif
-Sécuriser modèles contre prompt injection bancaire.
+Les mots peuvent tuer. Une phrase malveillante, et l'IA obéit à l'ennemi.
 
-## Description Conceptuelle
+Sanitisation impitoyable. Validation d'intention. Isolation de contexte.
 
-### **Hardening Pipeline**
-Sanitisation input, validation intent, context isolation.
+JPMorgan et Goldman Sachs forgent ces remparts numériques.
 
-### **Vos Principes**
-**Prompt Injection** : Sanitisation bancaire critique
-**Guardrails** : Multi-couches sécurité
-
----
-
-## Checklist Defense
-- [ ] Input sanitization
-- [ ] Intent validation
-- [ ] Context isolation
-
----
-
-**Statut** : Recette #19/32 ✅
+**Les mots sont des armes. L'IA doit les désarmer.**

@@ -1,22 +1,7 @@
-# Chapitre 8 : Perspectives Futures
+# Chapitre 8 : Perspectives
 
-## Objectif
-Synthèse tendances IA-FS 2026+.
+L'horizon s'éclaircit. Agents intelligents. Modèles sans chaînes. Voix universelles.
 
-## Description Conceptuelle
+Les banques se transforment. Non par destruction, mais par renaissance.
 
-### **Horizons 2026-2030**
-Agentic AI, T-free ubiquité, Speech2Speech natif.
-
-### **Vos Principes Ultimes**
-**Shift Électrique Total** : Banques 100% reconstruites
-**Human+AI Symbiose** : Décision augmentée
-
----
-
-## Vision Finale
-**Financial Services** → **AI Native Services**
-
----
-
-**Statut** : Recette #32/32 ✅ | **LIVRE COMPLET**
+**Le futur financier s'écrit aujourd'hui, ligne par ligne, décision par décision.**
