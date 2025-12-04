@@ -1,23 +1,15 @@
-# Chapitre 7 : Guardrails Multi-Couches
+# Chapitre 7 : Guardrails - Balance Risque/Confiance
 
-## Objectif
-Équilibre risque/confiance/sécurité production IA.
+Sur le fil du rasoir, l'équilibre se joue entre audace et prudence.
 
-## Description Conceptuelle
+Les guardrails adaptent leur vigilance à chaque contexte bancaire, comme un funambule modulant son pas.
 
-### **Risk/Trust Balance**
-Guardrails adaptatifs selon contexte bancaire.
+JPMorgan et Goldman Sachs ont bâti ces protections au cœur de leurs IA.
 
-### **Vos Principes**
-**Guardrails** : Risk/trust/safety équilibre
-**Human Decide** : Supervision critique
+Entre le risque et la confiance, un accord fragile gouverne les décisions automatiques.
+
+**La sécurité n’est pas un frein, c’est un levier.**
 
 ---
 
-## Exemples
-1. **JPMorgan** : Production guardrails
-2. **Goldman** : Risk management IA
-
----
-
-**Statut** : Recette #20/32 ✅
+[Traduction en français inspirée de l’original anglais]

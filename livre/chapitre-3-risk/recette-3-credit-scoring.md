@@ -1,13 +1,11 @@
 # Chapitre 3 : Credit Scoring Dynamique
 
-Le crédit n'est plus statique, figé dans le temps.
+Dans les méandres des chiffres, le crédit se fait fluide, vivant.
 
-IA observe, analyse, et modifie en temps réel.
+L'IA écoute, apprend. Les portefeuilles dansent au rythme des marchés, des comportements, des nouvelles.
 
-Les portefeuilles, les comportements, les informations externes deviennent des notes dans une partition vivante.
+Upstart orchestre cette symphonie du risque. Robeco suit le tempo avec grâce.
 
-Upstart et Robeco orchestrent cette symphonie dynamique.
+Le risque n'est plus une forteresse infranchissable. C'est une danse maîtrisée, composée et jouée entre données et intuition.
 
-Une révolution silencieuse, où chaque décision se joue sur un fil.
-
-**Le risque n'est plus un obstacle, c'est une danse.**
+**Le risque ne menace plus, il guide.**
