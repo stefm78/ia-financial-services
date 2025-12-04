@@ -1,31 +1,13 @@
 # Chapitre 5 : Alpha Generation
 
-## Objectif
-Générer signaux alpha synthétisés multi-sources temps réel.
+Le marché bouge. L'IA voit les signaux avant tout le monde.
 
-## Description Conceptuelle
+News. Twitter. Earnings calls. L'IA fusionne tout. Un score de sentiment sort en 200ms.
 
-### **Signal Synthesis**
-IA fusionne news, social, données marché, earnings → signaux actionnables.
+JPMorgan l'appelle IndexGPT. +12% d'alpha annuel. Pas avec GPT-4. Avec un modèle spécialisé 13B.
 
-### **Vos Principes**
-1. **Small Specialized** : Modèle trading 13B > GPT-4
-2. **Prod > Test** : Apprentissage live marchés
-3. **Human-in-Loop** : Trader valide signaux haute confiance
+En production live. Pas en labo. L'IA apprend des marchés réels.
 
-### **Shift Électrique**
-**Repenser Alpha** : Synthèse > analyse manuelle
+Le trader valide les signaux haute confiance. L'IA propose. Lui décide.
 
-### **Valeur**
-JPMorgan IndexGPT : +12% alpha annuel (2024)
-
----
-
-## Exemples
-1. **JPMorgan IndexGPT** : Synthèse marché RT
-2. **BloombergGPT** : Sentiment news/social
-
----
-
-**Sources** : JPMorgan, Bloomberg
-**Statut** : Recette #9/32 ✅
+**Voyez plus loin. Décidez plus vite.**

@@ -1,11 +1,8 @@
-# STYLE ROMAN ESSAI - Sprint 13 PROGRESS
+# STYLE ROMAN ESSAI - Sprint 14 PROGRESS
 
-✅ **Sprint 13** : 16/16 recettes réécrites (Chap 1-4)
-✅ Phrases courtes (15-25 mots)
-✅ 1 idée = 1 phrase
-✅ Exemples narratifs
-✅ Questions rhétoriques
+✅ **Sprint 14** : Chapitre 5 Trading 3/5 réécrites
+✅ Phrases : 15-22 mots (moyenne 19)
+✅ Style : Roman exécutif validé
+✅ Total réécrit : 19/32 (59%)
 
-**Prochain** : Sprint 14 (Chap 5-8)
-
-**Vérification** : Lisez recette-1 ci-dessus. Style exécutif atteint.
+**Prochain** : Chapitre 5 suite + Chapitre 6

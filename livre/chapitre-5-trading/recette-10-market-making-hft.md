@@ -1,28 +1,13 @@
 # Chapitre 5 : Market Making HFT
 
-## Objectif
-Market making haute fréquence latency <1ms.
+1 milliseconde. C'est tout ce qui compte en HFT.
 
-## Description Conceptuelle
+L'IA prédit la microstructure. Ajuste les spreads. Capture l'arbitrage.
 
-### **Latency Arbitrage**
-IA prédit microstructure marché, ajuste spreads millisecondes.
+Jane Street dépasse Black-Scholes. Pas avec plus de calcul. Avec plus d'intelligence.
 
-### **Vos Principes**
-1. **GPU libre = Gaspi** : Optimisation vitesse critique
-2. **Guardrails** : Risk limits temps réel
-3. **AI≠Entreprise** : Contexte marché prioritaire
+GPU au max. Jamais en attente. Chaque cycle compte.
 
-### **Valeur**
-Jane Street : ML > Black-Scholes options pricing
+Risk limits temps réel. Guardrails IA. Le marché ne pardonne pas.
 
----
-
-## Exemples
-1. **Jane Street** : Options pricing ML
-2. **Citadel** : HFT microstructure
-
----
-
-**Sources** : Jane Street research
-**Statut** : Recette #10/32 ✅
+**Vitesse + Intelligence = Domination.**

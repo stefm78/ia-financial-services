@@ -1,28 +1,13 @@
-# Chapitre 5 : Sentiment Analysis Temps Réel
+# Chapitre 5 : Sentiment Analysis
 
-## Objectif
-Analyser sentiment news/social pour signaux marché instantanés.
+BloombergGPT écoute le monde. News. Social. Reddit. Tout.
 
-## Description Conceptuelle
+Un tweet viral. L'IA le pèse contre 10 000 autres. Score instantané.
 
-### **Multi-Source Fusion**
-IA synthétise news, Twitter/X, Reddit, earnings calls → score sentiment.
++8% de précision directionnelle. Pas de la magie. De la spécialisation.
 
-### **Vos Principes**
-1. **Prod > Test** : Apprentissage live news/social
-2. **Small Specialized** : Modèle sentiment FS 7B
-3. **Guardrails** : Fake news detection + source trust score
+Fake news détectées. Sources pondérées par confiance.
 
-### **Valeur**
-BloombergGPT : +8% prédiction directionnelle
+Les marchés bougent sur du sentiment. L'IA le mesure avant vous.
 
----
-
-## Exemples
-1. **BloombergGPT** : News/social RT
-2. **Two Sigma** : Alternative data sentiment
-
----
-
-**Sources** : Bloomberg research
-**Statut** : Recette #11/32 ✅
+**Le bruit devient signal.**
