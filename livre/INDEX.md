@@ -3,28 +3,25 @@
 ## Chapitre 1 : Introduction (1/1)
 - [x] recette-1-intro-ia-fs.md
 
-## Chapitre 2 : Fraud Detection (1/5)
+## Chapitre 2 : Fraud (1/5)
 - [x] recette-2-fraud-temps-reel.md
 
-## Chapitre 3 : Risk Management (1/5)
+## Chapitre 3 : Risk (1/5)
 - [x] recette-3-credit-scoring.md
 
 ## Chapitre 4 : Compliance (5/5)
-- [x] recette-4-kyc-continu.md
-- [x] recette-5-mifid-reporting.md
-- [x] recette-6-sanctions-screening.md
-- [x] recette-7-trade-surveillance.md
-- [x] recette-8-esg-compliance.md
+- [x] 4-8 recettes
 
-## Chapitre 5 : Trading (5/5)
-- [x] recette-9-alpha-generation.md
-- [x] recette-10-market-making-hft.md
-- [x] recette-11-sentiment-analysis.md
-- [x] recette-12-options-pricing.md
-- [x] recette-13-execution-tca.md
+## **Chapitre 5 : Trading (5/5)**
+- [x] 9-13 recettes
 
-**Total** : 13/32 recettes (41%) | **Phase** : Production Sprint 5
+## **Chapitre 6 : Client (4/5)**
+- [x] recette-14-personalized-advice.md
+- [x] recette-15-churn-prediction.md
+- [x] recette-16-next-best-offer.md
+- [x] recette-17-voice-banking.md
 
----
+## **Chapitre 7 : Production (1/5)**
+- [x] recette-18-production-challenges.md
 
-**Généré** : 2025-12-04 | **Prochain** : Chapitre 6 Client & Operations
+**Total** : **18/32 (56%)** | **Phase** : Production Sprint 6
