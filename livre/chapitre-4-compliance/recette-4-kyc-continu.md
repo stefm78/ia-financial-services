@@ -1,34 +1,13 @@
 # Chapitre 4 : KYC Continu
 
-## Objectif
-Assurer la conformité KYC/AML continue avec IA en temps réel.
+L'identité n'est plus un papier figé. Elle vit, elle respire, elle change.
 
-## Description Conceptuelle
+L'IA suit le client. Pas comme un espion. Comme un gardien discret.
 
-### **Monitoring Comportemental**
-IA suit comportement client 24/7, détecte activités anormales.
+Comportement. Transactions. Mouvements. Toute anomalie réveille la vigilance.
 
-### **Stratégie Modèle**
-1. Approche spécialisée fraud detection
-2. IA intégrée dans pipeline compliance
-3. Humain dans boucle pour validation forte
+Standard Chartered a fait de cette veille son rempart. Les fintechs européennes suivent.
 
-### **Technologies Clés**
-- Surveillance des transactions
-- Analyse de réseau
-- Intelligence comportementale
+Le KYC n'est plus un formulaire. C'est une danse permanente entre confiance et contrôle.
 
-### **Valeur McKinsey**
-Réduction significative risques et pénalités, conformité en temps réel.
-
----
-
-## Exemples d'Application
-1. Standard Chartered : Monitoring comportemental en continu
-2. Fintechs Europe : Plateformes automatisées KYC
-
----
-
-**Sources** : McKinsey, Standard Chartered
-**Statut** : Recette #4/32 en cours
-
+**L'identité véritable se révèle dans le mouvement.**

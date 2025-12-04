@@ -1,23 +1,13 @@
-# Chapitre 3 : Stress Testing IA
+# Chapitre 3 : Stress Testing Dynamique
 
-## Objectif
-Générer scénarios stress extrêmes auto-générés.
+Les marchés ploient sous l'assaut des tempêtes imprévues. Black swans. Pandémies. Guerres.
 
-## Description Conceptuelle
+L'IA ne prédit pas l'imprévisible. Elle l'invente. Elle forge des scénarios d'une cruauté méthodique.
 
-### **Scenario Generation**
-IA crée scénarios black swan probabilistes.
+Goldman Sachs laisse l'IA composer ses propres cataclysmes. JPMorgan suit le tempo infernal.
 
-### **Vos Principes**
-1. **Quality > Quantity** : Scénarios qualitatifs
-2. **Shift Électrique** : Repenser stress testing
+Plus de tableaux poussiéreux. Des vagues vivantes, générées par des esprits numériques.
 
----
+Le stress n'est plus subi. Il est anticipé, dansé, maîtrisé.
 
-## Exemples
-1. **Goldman Sachs** : Stress IA
-2. **JPMorgan** : Scenario generation
-
----
-
-**Statut** : Recette #26/32 ✅
+**L'intelligence crée la tempête pour mieux la dompter.**
