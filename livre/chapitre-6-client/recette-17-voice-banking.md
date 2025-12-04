@@ -1,23 +1,11 @@
-# Chapitre 6 : Voice Banking Multilingue
+# Chapitre 6 : Voice Banking
 
-## Objectif
-Speech-to-intent 30 langues, banking conversationnel.
+La voix devient la porte d'entrée.
 
-## Description Conceptuelle
+L'IA comprend, répond, anticipe dans trente langues.
 
-### **Speech2Speech Natif**
-IA comprend intent bancaire multilingue sans transcription.
+DBS et Revolut innovent dans cette symbiose vocale.
 
-### **Vos Principes**
-1. **Guardrails** : Authentification vocale sécurisée
-2. **Prod > Test** : Apprentissage accents/dialectes
+Pour l'utilisateur, la banque devient conversation.
 
----
-
-## Exemples
-1. **DBS Asia** : Voice banking multilingue
-2. **Revolut** : Speech banking
-
----
-
-**Statut** : Recette #17/32 ✅
+**Parler, c'est désormais accéder.**

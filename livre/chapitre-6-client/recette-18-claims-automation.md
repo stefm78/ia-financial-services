@@ -1,24 +1,11 @@
 # Chapitre 6 : Claims Automation
 
-## Objectif
-Automatiser validation claims assurance temps réel.
+Les dossiers s'ouvrent et se ferment presque seuls.
 
-## Description Conceptuelle
+L'IA scrute les documents, détecte les fraudes, valide les demandes.
 
-### **Auto-Validation**
-IA analyse documents, historique, patterns fraude → décision instantanée.
+Allianz et AXA tracent la voie de l'automatisation.
 
-### **Vos Principes**
-1. **Qualité > Quantité** : Données claims qualitatives
-2. **Human-in-Loop** : Edge cases complexes
-3. **Guardrails** : Anti-fraude intégrée
+Mais l'humain reste, vigilant, pour éviter l'erreur.
 
----
-
-## Exemples
-1. **Allianz** : Claims IA 80% auto-validées
-2. **AXA** : Processus digitalisé
-
----
-
-**Statut** : Recette #18/32 ✅
+**Automatiser, oui. Déléguer, jamais.**

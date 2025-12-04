@@ -1,25 +1,11 @@
-# Chapitre 7 : Agent Ecosystem Production
+# Chapitre 7 : Agent Ecosystem
 
-## Objectif
-Déployer agents spécialisés (makers/controllers) avec supervision humaine.
+Au sein de la banque, une symphonie se joue.
 
-## Description Conceptuelle
+Les agents makers créent, les controllers valident, l'humain décide.
 
-### **Agent Hierarchy**
-**Makers** génèrent, **Controllers** valident, **Humain décide**.
+Un ballet orchestré, précis, où chaque acteur sait son rôle.
 
-### **Vos Principes**
-**Agents** : Spécialisation rôles
-**Human Decide** : Supervision finale
-**Guardrails** : Inter-agent validation
+Cette hiérarchie augmente la confiance, réduit le risque.
 
----
-
-## Architecture
-- Maker agents : Contenu/signaux
-- Controller agents : Validation/risque
-- Human oversight : Décision critique
-
----
-
-**Statut** : Recette #22/32 ✅ | **Chapitre 7 COMPLÉTÉ**
+**Les algorithmes dansent sous contrôle éclairé.**
